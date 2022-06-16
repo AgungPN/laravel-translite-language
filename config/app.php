@@ -232,4 +232,7 @@ return [
 
     ],
 
+    /* accept languages translite */
+    'languages' => ['id', 'en']
+
 ];
